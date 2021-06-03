@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The recantation of Cornelius O'Donnell, prior of Trim as it was by him solemnly deliver'd in the church of Trim (renouncing the errors of the Roman Church) upon Sunday Aug. 14, together with the motives inducing him thereunto.</title>
+            <author>O'Donnell, Cornelius.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27565</idno><idno type="EEBO-CITATION">27872849</idno>
+  <idno type="VID">205763</idno>
+  <idno type="EEBO-PROQUEST">2248546120</idno>
+  
+            <idno type="STC">Wing O139bA</idno>
+            <idno type="OCLC">27872849</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27565)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205763)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1731:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The recantation of Cornelius O'Donnell, prior of Trim as it was by him solemnly deliver'd in the church of Trim (renouncing the errors of the Roman Church) upon Sunday Aug. 14, together with the motives inducing him thereunto.</title>
+                  <author>O'Donnell, Cornelius.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Hodgkinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1664?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Licenced August 19. 1664."</note>
+                  <note>Imperfect: faded, broken type, and print show-through, with loss of text.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">O'Donnell, Cornelius.</term>
+               <term type="topical_term">Anti-Catholicism --  Ireland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:205763:1"/>
+            <head>THE RECANTATION OF Cornelius O Donnel, PRIOR of TRIM, As it was by him solemnly deliver'd in the <hi>Church</hi> of <hi>Trim</hi> (Renouncing the Errors of the ROMAN CHURCH) upon <hi>Sunday Aug.</hi> 14. together with the Motives inducing him thereunto.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenced</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>August</hi> 19. 1664.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <seg rend="decorInit">G</seg>Ood People, considering my now appearing here this day in a way differing from my Profession for<g ref="char:EOLhyphen"/>merly in the <hi>Romish</hi> Church, it becomes necessary for Publick satisfaction that something be declared as to the Manner, Rea<g ref="char:EOLhyphen"/>sons and Grounds of it, which I chose to be done amongst you here at <hi>Trim,</hi> rather than
+<pb n="2" facs="tcp:205763:2"/> Elsewhere; This being the very Place unto which (by a Power Forreign to you, and by me now disclaimed) I have been appointed Prior) (that being amongst those with whom I once was) a dignity of Esteem, the <hi>Prior</hi> of <hi>Trim</hi> re<g ref="char:EOLhyphen"/>puted amongst the most Eminent of that kind in this Kingdome. This gives you the repute then had of me among those whom I at that time conversed with: So therein you see what my former Profession was, and way of life, be<g ref="char:EOLhyphen"/>ing one in Communion with the Church of <hi>Rome,</hi> and a <hi>Regular</hi> of the <hi>Dominican</hi> Order of Friars; in which way I continued about twen<g ref="char:EOLhyphen"/>ty years, and in Order hereunto my Education hath been most in Forreign Parts, as at <hi>Rome; Naples,</hi> &amp;c. being but lately return'd to this my Native Country of <hi>Ireland,</hi> and here received with those respects, and that Trust already mention'd.</p>
+            <p>Ambition of greatness is not therefore (you see) the Motive to this Change; for I cannot now propose to my self great things rationally, as I had no reason to deny my self any hopes of rising yet higher then I have done, had I gone on and continued in that Course where<g ref="char:EOLhyphen"/>in I was formerly; nor is Liberty, and a being out of the Narrow Rules of a Regular Order any inducement to me in this, for I know not
+<pb n="3" facs="tcp:205763:2"/> where liberty even to licentiousness is to be had more then in the way of my Conversation formerly; not that I say 'tis so there professedly and by Publique Allowance, yet to be so in ef<g ref="char:EOLhyphen"/>fect and generally, and with much connivance and impunity also is what cannot be denyed; of which I could wish heartily that others al<g ref="char:EOLhyphen"/>so in that course would consider seriously and seasonably; nor that, nor any thing in that kind was a Persuasive to me in this, but what only is grounded on conscience and care of Salvation, to which all sinister ends of Ambiti<g ref="char:EOLhyphen"/>on or Liberty, or any thing else of that nature must give place.</p>
+            <p>Under these thoughts of this Change, I have long laboured with some conflicts and trouble of mind, and sometime of hazard to my Person also: for during my time at <hi>Na<g ref="char:EOLhyphen"/>ples,</hi> having inconsiderately expressed my self in some things whereby jealousies were raised of me, which had like to have brought me into the Inquisition, had I not recollected my self by a seasonable contraction made of what had so passed me; and herein I acknowledge my weakness in not rather standing it out then and in After trialls; for thereby, and by temp<g ref="char:EOLhyphen"/>tations after of quiet and advantage, I did for a time silence conscience, and was content to
+<pb n="4" facs="tcp:205763:3"/> run on as formerly, and so resolved I came to this my native Soyl, and here accordingly ac<g ref="char:EOLhyphen"/>cepted of that preferment before mentioned then offered and conferr'd upon me. But here it pleased God to look on me in his mercy a<g ref="char:EOLhyphen"/>gain, not so leaving me to my self, and having brought me hither to a place of more liberty for declaring my self so, as I could not do be<g ref="char:EOLhyphen"/>fore, and finding here also means for my ful<g ref="char:EOLhyphen"/>ler information in the truth, then in my former condition, I have therefore through that grace of God which hath opened that way so for me, now laid hold on this happy opportunity for it, and do rejoyce that I may with this freedom and safety declare my self in all these in this place, and at this time before you.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <p>But in the very entrance on this I find my self the Publick Discourse of all; all mouthes open against me, some malici<g ref="char:EOLhyphen"/>ously, others over-credulously to my great scandal and dis<g ref="char:EOLhyphen"/>couragement, and aspersed with scandalous surmizes, such as untill this occasion were never known. But if I so suffer, I know I am not alone in it, and I know him who assures me of a blessing, while othe s so curse. <hi>Blessed are ye,</hi> saith Christ, <hi>when all men shall revile you, and persecute you, and shall say all manner of evil of you falsely for my sake,</hi> Math. 5. verse 11. But whatever men say of me, or whatever I have been, I, shall by the Grace of God approve my self in my conversa<g ref="char:EOLhyphen"/>tion so as not to be a scandall to the Truth now professed by me; nor shall I, I hope be a reproach to the Church which I desi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e now to be received into, thereby hoping in time to stop the mouths of Traducers to their own shame.</p>
+                        <p>And now (Good People) having given you some Ac<g ref="char:EOLhyphen"/>compt
+<pb n="5" facs="tcp:205763:3"/> of my self as to my life, I beg your further patience, while I add some thing of the Motives to this Change; some only I offer of many, that I be not too tedious to you.</p>
+                        <p n="1">1. One was the consideration of that (as I conceived un<g ref="char:EOLhyphen"/>limited Pow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r assumed and p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>act<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>sed by the Pope for dis<g ref="char:EOLhyphen"/>pencing with inc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>stu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>us Marriages in the greatest nearness of blood, so as by such a dispensation purchased with mony an Uncle might be allowed to marry his N<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ce, if not a Bro<g ref="char:EOLhyphen"/>ther h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s S ster. This I know to be contrary to Gods Law in express terms, and how any mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tall man or creature could dispence with the D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ne Law of the supreme God I cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d not understand; for to dispence with a Law is (we know) an Act of Prerogative, such as is exe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cised by a Super<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>our o<g ref="char:EOLhyphen"/>ver an Inferiou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, and how that supremacy wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ch the Pope challenged on Earth should rise so much higher, was I pro<g ref="char:EOLhyphen"/>fess above me to conceive, and what I thought not fit nor safe to submit my reason and faith unto.</p>
+                        <p n="2">2. I was further told, and must have believed as a necessa<g ref="char:EOLhyphen"/>ry Article of Faith, that in consecrating the Host in the ho<g ref="char:EOLhyphen"/>ly Eucharist, and after the prolation of these words of Con<g ref="char:EOLhyphen"/>secration, <hi>Hoc est enim Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>pus meum,</hi> the nature of Bread and Wine thence further ceased to be, and that thereby a real transubstantiation is made of the natural Body and Blood of Christ as he was born of the Blessed Virgin <hi>Mary</hi> his Mo<g ref="char:EOLhyphen"/>ther, and as he was after offered on the Cross, and the least Particle, even to <hi>minimum naturale</hi> of that Bread hath Christ wholy and entirely in it, and that wheresoever consecrated, although in Millions of places at once, and at the greatest distances; and that the Bread alone without the Cup is suf<g ref="char:EOLhyphen"/>ficient and comprehensive of both, and that Bread alone is to be administred to the People exclusively to their taking of the Cup, and the Host so consecrated is to be adored of all even as Christ himself, and with the same divine and su<g ref="char:EOLhyphen"/>preme Worship commonly termed <hi>Satreia.</hi> This is what I then thought of that Sacrament, wherein I found many things sticking.</p>
+                        <p n="1">
+                           <pb n="6" facs="tcp:205763:4"/>1. For how could those words, <hi>hoc est corpus meum,</hi> al<g ref="char:EOLhyphen"/>though very plain for a Real Presence, reach yet to a Corpo<g ref="char:EOLhyphen"/>rall Presence, especially considered as when <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>hos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> words were pronounced by Christ himself in the fi st Inst<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ution; for was that B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ead and Wine at that v <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y time Christs very Body and Blou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> naturally? Did he h ld h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mself in his own hands? and did he himself e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t himself? was he himself then crucified before he was cr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cifi d? or was it not then a signe only of what was to be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>one to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>im after when he should be crucified, as it is now to us of his having been already crucified?</p>
+                        <p n="2">2. And if that be so, and not such change be made as is suggested, but that the consecrated Bread and Wine are Bread and Wine still, and in the former nature after Conse<g ref="char:EOLhyphen"/>cration; what then do we after Consecration in adoring that for Christ himself, and as himself, which is not himself, only Sacramentally? This could not be (as I conceived, without danger, at least of Idolatry, in adoring a Creature for God.</p>
+                        <p n="3">3. I saw not how Christ having appointed Bread and W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ne both, and not one alone to be delivered to all, and that he hath said particularly of the Cup, <hi>Drink ye all of this,</hi> which he did not say of the Bread, as foreseeing some Injury would be offered to that part of his blessed Institution above the other, in taking this the Cup away, and denying it to some, the Laity, while the other the Bread, and administred to all; I saw not (I say) how that could consist with that sacred Institution of Christ or Lord, whose actions in that are to be for our Imitation, as is his command for our obedience.</p>
+                        <p n="4">4. I could not understand how Christs Body being a natu<g ref="char:EOLhyphen"/>rall Body as ours, and in all things like ours (present glory ex<g ref="char:EOLhyphen"/>cepted) and sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>uld yet be infinitely multiplyed, and in se<g ref="char:EOLhyphen"/>veral infinite places at once, contrary to the nature of a true Body such as Christ is; How can that multiplication of Bo<g ref="char:EOLhyphen"/>dies consist with one Body only? nor did what I heard in that of G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ds Omnip t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ncy so satisfy; for where is it found and seen, that God w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>uld do so. And Miracles are not to be
+<pb n="7" facs="tcp:205763:4"/> multiplied unnecessarily, or according to our fancies, besides what is further to be said in it.</p>
+                        <p n="5">5 That which was imposed on our Faith concerning Pur<g ref="char:EOLhyphen"/>gatory was a scruple also to me, that being a place said to be for Soules after death, there to be purged from Sins by fire and sufferings, so grievous as that all the sufferings in this life is said to be nothing in comparison; Pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>gatory fire being no way esteemed short even of Hell it selfe, both Torments only differing in duration, Hell Torments being eternall, the other but Temporary.</p>
+                        <p n="1">1 But that Death should be a time for reforming, which is the worke of this life only, is what is contrary to Scripture.</p>
+                        <p n="2">2 That the state of the Soules of those who are for Hea<g ref="char:EOLhyphen"/>ven (for such only are said to be for Purgatory) others, ha<g ref="char:EOLhyphen"/>ving Hell for their Place, that I say such Soules which after this life are for Blisse and Peace should be for Torments un<g ref="char:EOLhyphen"/>speakable, is what is also contrary to Scripture <hi>Revel.</hi> 14.13. Where Saint <hi>John</hi> saith, <hi>[I heard a voice from Heaven saying unto me, Write; Blessed are the Righteous which dye in the Lord from hence forth; yea saith the Spirit, that they rest from their Labours and their works doe follow them]</hi> so saith the Spi<g ref="char:EOLhyphen"/>rit of God whom I am to believe rather then any other Spirit that tells me the contrary.</p>
+                        <p n="3">3 Nor doe I finde in Scripture such a place as that of Pur<g ref="char:EOLhyphen"/>gatory is said to be.</p>
+                        <p n="4">4 Nor is that Great virtue of purging from Sin given to a<g ref="char:EOLhyphen"/>ny fire, or any other thing, that being peculiar only to the Blood of Christ, which, &amp; which only, purgeth us from all sin.</p>
+                        <p n="5">5 And all considered I had just cause to suspect that all that of Purgatory was but a corrupt designe; First, for ad<g ref="char:EOLhyphen"/>vantage, which was infinite, by purchasing on that ground Indulgences and Masses, and other the like. Secondly, that it might be a politique designe for making up the Popes greatness, both in giving him a Supremacy of Power in Pur<g ref="char:EOLhyphen"/>gatory as on Earth, and further by fastning all men and their
+<pb n="8" facs="tcp:205763:5"/> Interests unto him, as one in whose power is there after peace by a speedy deliverance out of those scorching flames and Torments unspeakable.</p>
+                        <p>I will not trouble you with more of this kind at present, having I doubt gone too farre already, only know that this and much more so sticking with me, I could not be so want<g ref="char:EOLhyphen"/>ing to my self as not to seek Peace and Salvation where I might find it, and not being satisfyed of having it where till now I had in vain expected it.</p>
+                        <p>And now Right Reverend Father in God my Lord Bishop of <hi>Meath,</hi> in whose hands I thus put my se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>f, being within your Diocess, and Charge, I humbly desi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e tha you would accept of this my humble acknowledgement of former Er<g ref="char:EOLhyphen"/>rors which I now <hi>Renounce,</hi> and he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e I lay down at your feet what before I esteem'd mine H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nour, this Patent of my Priorship of <hi>Trim,</hi> with which I cast off at once all of that k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nd, and kneeling, I humbly beg to be rece<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>v to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>om<g ref="char:EOLhyphen"/>munion with you, and that I may have y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ur B <gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>g a d Pray<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rs to God for me, that he would co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>fi<gap reason="illegible" resp="#keyers" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>e <gap reason="illegible" resp="#keyers" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y is G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ace to walk before him for the futu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e answera<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>le <gap reason="illegible" resp="#keyers" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cy now given me.</p>
+                        <p>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l which as from my s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lf is f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eely and cordially he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e un<g ref="char:EOLhyphen"/>der mine own hand acknowledged, and thus presented to your Lordship.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <closer>
+               <signed>CORNELIUS ô DONNE<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</signed>
+            </closer>
+         </div>
+         <div type="afterword">
+            <p>Memorandum, <hi>That in the</hi> 14th <hi>of</hi> August 1664. <hi>b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing the Lords day, the above Delaration signed by</hi> Cornel us ô <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nnel <hi>late Prior of</hi> Trim <hi>in the County of</hi> Meat <hi>was by himself open<g ref="char:EOLhyphen"/>ly read in St.</hi> Peters <hi>Church at</hi> Trim <hi>in a full Congregation af<g ref="char:EOLhyphen"/>ter Publique Prayers and Sermon, and w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s after by himself de<g ref="char:EOLhyphen"/>live<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed into the hand of the Lord Bishop of</hi> Meath; <hi>and that he the said</hi> Cornelius ô Donnel <hi>having been then presented to the Bishop by Dr.</hi> Amor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se Jones <hi>Arch-Deacon of</hi> Meath. <hi>He was thereupon publickly received with a Solemn Benediction.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Hodgkinson,</hi> living in <hi>Thames-street</hi> over against <hi>Baynards-Castle.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
